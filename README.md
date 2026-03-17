@@ -42,6 +42,6 @@ Hundir barcos:
 Fin del juego:
   Gana el jugador que hunde todos los barcos del adversario primero
   ----------------------------------------------------------------------------------
-  
-<img width="1271" height="1591" alt="hundeLAFLota (1)" src="https://github.com/user-attachments/assets/1cf63589-1111-4104-93a4-4c950bcdeaa7" />
+
+<img width="1271" height="1591" alt="hundeLAFLota" src="https://github.com/user-attachments/assets/93a9bc24-0c94-4675-8da6-22de3b318d7b" />
 
