@@ -1,4 +1,4 @@
-                Instrucciones: Hundir la Flota
+Instrucciones: Hundir la Flota
 ----------------------------------------------------------------------------------
 Objetivo del juego
   El objetivo es hundir todos los barcos del rival antes de que él hunda los tuyos.
